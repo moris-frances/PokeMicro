@@ -1,0 +1,12 @@
+../Core/Src/Oled_C.c:15:6:OLED_CLS	16	static
+../Core/Src/Oled_C.c:32:6:OLED_C_command	16	static
+../Core/Src/Oled_C.c:58:6:OLED_C_data	16	static
+../Core/Src/Oled_C.c:69:6:InitMCU	8	static
+../Core/Src/Oled_C.c:147:6:DDRAM_access	16	static
+../Core/Src/Oled_C.c:162:6:OLED_C_MemorySize	24	static
+../Core/Src/Oled_C.c:170:6:OLED_C_Color	16	static
+../Core/Src/Oled_C.c:177:6:drawChar	48	static
+../Core/Src/Oled_C.c:681:6:drawPixel	24	static
+../Core/Src/Oled_C.c:696:6:drawFullScreenBitmap	32	static
+../Core/Src/Oled_C.c:719:6:drawPokemonAndPokedex	24	static
+../Core/Src/Oled_C.c:727:6:drawString	40	static
